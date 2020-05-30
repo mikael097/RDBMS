@@ -111,22 +111,22 @@ VALUES(108 ,'Jim', 'Halpert', '1978-10-01', 'M' ,71000 ,106 ,3);
 
 -- INSERTING INTO CLIENT
 INSERT INTO client 
-VALUES(400, 'Dunschool', 2);
+VALUES(400, 'Dunmore Highschool', 2);
 
 INSERT INTO client 
-VALUES(401 ,'L. Country', 2);
+VALUES(401 ,'Lackwana Country', 2);
 
 INSERT INTO client 
 VALUES(402, 'FedEx', 3);
 
 INSERT INTO client 
-VALUES(403, 'J D L LLC', 3);
+VALUES(403, 'John Daly Law, LLC', 3);
 
 INSERT INTO client 
-VALUES(404 ,'S. White',2);
+VALUES(404 ,'Scranton Whitepages',2);
 
 INSERT INTO client 
-VALUES(405,'Times News',3);
+VALUES(405,'Times Newspaper',3);
 
 INSERT INTO client 
 VALUES(406,'FedEx',2);
